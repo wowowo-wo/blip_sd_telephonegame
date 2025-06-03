@@ -6,7 +6,7 @@
 
 <img src="ex/sss_merged.png" width = 1200>
 
-This is an experimental funny project exploring how meaning shifts and noise accumulates when an image is repeatedly passed two different kinds of AI models.
+This is an experimental and funny project exploring how meaning shifts and noise accumulates when an image is repeatedly passed two different kinds of AI models.
 
 flow is simple:
 Start with an image, turn it into a caption using BLIP, then use Stable Diffusion to generate a new image from that caption. That image is again turned into a caption by BLIP ... and so on. It`s like a "telephone game"
