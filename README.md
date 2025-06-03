@@ -83,3 +83,11 @@ transformers
 diffusers
 accelerate
 pillow
+
+## Background
+
+Glitch art is a genre of art that embraces unexpected visual artifacts caused by digital errors. Traditionally, it involves techniques such as opening a JPEG file in a text editor and deliberately corrupting parts of its binary data to introduce visual "bugs" or noise.
+
+This project can be interpreted as a modern, AI-native version of glitch art. By repeatedly converting an image into text (via BLIP) and then back into an image (via Stable Diffusion), we can observe a process of gradual distortion and transformation. Each round of captioning and image generation introduces small shifts in meaning—a kind of semantic drift—that accumulate into surprising, often poetic divergences from the original.
+
+Philosophically, this project raises deeper questions about how AI "perceives" or "understands" images. In many of the examples I explored, especially those based on abstract or symbolic album art, the AI models tend to reinterpret them into more literal, concrete scenes. For instance, Joy Division’s "Unknown Pleasures" immediately become a tree in a landscape - suggesting that current models struggle to retain or reproduce abstraction as abstraction.
