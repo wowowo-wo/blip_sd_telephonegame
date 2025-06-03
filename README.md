@@ -46,7 +46,7 @@ Finally, a large tree by a lake appears, with people gathered beneath it.
 
 This transformation is extremely compelling, including the contrast with OK Computer, which is an album with a disturbing, eerie, and dark atmosphere throughout.
 
-
+---
 
 "The division bell" example produces an unexpected result. When people view the cover of this album, the most striking element is the split-faced object. 
 
@@ -54,7 +54,7 @@ The abstract face is immediately replaced by a realistic human figure.  The them
 
 The one consistent element throughout is the backdrop of blue sky and expansive natural scenery.
 
-
+---
 
 The "Solid State Survivor" example is open to some interpretation. The cover is a striking composition, depicting the members of YMO in red suits, sitting in a light-green room. 
 
