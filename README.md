@@ -33,23 +33,39 @@ python3 cli.py --image_path PATH_to_image --steps 10 --min_length 30 --max_lengt
 ```
 ## Observation of the above examples
 
-In the example of "OK Computer", a very breathtaking transformation can be seen.  
+
+
+In the example of "OK Computer", a very breathtaking transformation can be seen.
 Initially, the letters "OK" are interpreted as an O wrapping around a K, which then changes into a pattern in a circle in nature. 
-The highway element in the original image remains as concrete buildings symbolizing an artificial object, but soon fades away. After that, the circular pattern in the square change into a clock, and people start to gather. 
-A large tree emerges at the center of the previously flat square, and the circle which is originally "O" changes into a halo of the tree. Finally, a large tree by a lake appears, with people gathered beneath it. 
+
+The highway element in the original image remains as concrete buildings symbolizing an artificial object, but soon fades away.
+After that, the circular pattern in the square change into a clock, and people start to gather. 
+
+A large tree emerges at the center of the previously flat square, and the circle which is originally "O" changes into a halo of the tree.
+Finally, a large tree by a lake appears, with people gathered beneath it. 
+
 This transformation is extremely compelling, including the contrast with OK Computer, which is an album with a disturbing, eerie, and dark atmosphere throughout.
 
 
+
 "The division bell" example produces an unexpected result. When people view the cover of this album, the most striking element is the split-faced object. 
+
 The abstract face is immediately replaced by a realistic human figure.  The theme of "pairing" continues for a while, but eventually shifts to three figures, and then to a single individual.
+
 The one consistent element throughout is the backdrop of blue sky and expansive natural scenery.
 
 
+
 The "Solid State Survivor" example is open to some interpretation. The cover is a striking composition, depicting the members of YMO in red suits, sitting in a light-green room. 
+
 At first, BLIP correctly “recognizes” the scene, and SD generates an image of people in red suits seated around a table in front of a green screen. 
+
 However, perhaps due to the unusual nature of red suits, in the next image only one woman remains in red, while the others wear plain-colored outfits. In the following image, the red clothing disappears entirely. 
 The light-green room persists for a while as a green screen, but eventually vanishes—replaced by a man whose suit has turned green. 
+
 The one element that remained consistent was the image of a man sitting in a chair.
+
+
 
 ## How to Make the Captions Weirder
 
