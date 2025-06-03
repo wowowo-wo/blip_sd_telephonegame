@@ -1,5 +1,5 @@
 torch
-torchvisin
+torchvision
 transformers
 diffusers
 accelerate
