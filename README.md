@@ -1,5 +1,11 @@
 # blip_sd_telephonegame
 
+<img src="ex/okcomp_merged.png" width = 1200>
+
+<img src="ex/dbell_merged.png" width = 1200>
+
+<img src="ex/sss_merged.png" width = 1200>
+
 This is an experimental funny project exploring how meaning shifts and noise accumulates when an image is repeatedly passed two different kinds of AI models.
 
 flow is simple:
@@ -8,7 +14,7 @@ Start with an image, turn it into a caption using BLIP, then use Stable Diffusio
 While more advanced models like BLIP-2 or GPT-4V might produce more stable or intelligent results, this project deliberately uses BLIP and SDXL1.0 for their reproducibility and light computational cost. In fact, The glitches and weirdness is more interesting and more desired than in precision.
 
 The header images were created using this loop, starting from famous album covers:  
-Radiohead’s "OK Computer", Joy Division’s "Unknown Pleasures", and Yellow Magic Orchestra’s "Solid State Survivor".  
+Radiohead’s "OK Computer", Pink Floyd’s "The Division Bell", and Yellow Magic Orchestra’s "Solid State Survivor".  
 
 
 ## Usage
