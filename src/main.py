@@ -5,8 +5,8 @@ from .model import image_to_caption, caption_to_image
 
 def main(args):
 
-    os.makedirs(args.prefix, exist_ok=True)
-    initial_output_path = os.path.join(args.output_prefix, f"{args.prefix}_step_0.png")
+    os.makedirs(args.output_prefix, exist_ok=True)
+    initial_output_path = os.path.join(args.output_prefix, f"{args.output_prefix}_step_0.png")
     init_img = Image.open(args.image_path).convert("RGB")
     init_img = init_img.resize((1024, 1024))
     init_img.save(initial_output_path)
