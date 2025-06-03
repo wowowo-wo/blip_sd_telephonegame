@@ -33,5 +33,3 @@ The key to interesting output often lies in tweaking how the caption is generate
 The BLIP model supports parameters like: min_length, max_length, num_beams, no_repeat_ngram_size
 
 To encourage more hallucination and unexpected results, increasing min_length and reducing num_beams can be expected to be effective measure. Because, that forces BLIP to generate a longer caption, but with fewer options to refine it—leading to stranger, more surprising descriptions. So, The AIs starts trying to see things that might not really be there.
-
-
