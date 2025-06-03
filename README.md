@@ -48,7 +48,7 @@ This transformation is extremely compelling, including the contrast with OK Comp
 
 ---
 
-"The division bell" example produces an unexpected result. When people view the cover of this album, the most striking element is the split-faced object. 
+"The Division Bell" example produces an unexpected result. When people view the cover of this album, the most striking element is the split-faced object. 
 
 The abstract face is immediately replaced by a realistic human figure.  The theme of "pairing" continues for a while, but eventually shifts to three figures, and then to a single individual.
 
@@ -56,7 +56,7 @@ The one consistent element throughout is the backdrop of blue sky and expansive 
 
 ---
 
-The "Solid State Survivor" example is open to some interpretation. The cover is a striking composition, depicting the members of YMO in red suits, sitting in a light-green room. 
+"Solid State Survivor" example is open to some interpretation. The cover is a striking composition, depicting the members of YMO in red suits, sitting in a light-green room. 
 
 At first, BLIP correctly “recognizes” the scene, and SD generates an image of people in red suits seated around a table in front of a green screen. 
 
