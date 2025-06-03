@@ -1,0 +1,6 @@
+torch
+torchvisin
+transformers
+diffusers
+accelerate
+pillow
