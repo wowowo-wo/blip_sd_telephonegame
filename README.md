@@ -14,7 +14,7 @@ Start with an image, turn it into a caption using BLIP, then use Stable Diffusio
 While more advanced models like BLIP-2 or GPT-4V might produce more stable or intelligent results, this project deliberately uses BLIP and SDXL1.0 for their reproducibility and light computational cost. In fact, The glitches and weirdness are more interesting and more desirable than precision.
 
 The header images were created using this loop, starting from famous album covers:  
-Radiohead’s "OK Computer", Pink Floyd’s "The Division Bell", and Yellow Magic Orchestra’s "Solid State Survivor".  
+Radiohead’s "OK Computer", Pink Floyd’s "The Division Bell", and YMO’s "Solid State Survivor".  
 
 
 ## Usage
@@ -58,6 +58,21 @@ The key to interesting output often lies in tweaking how the caption is generate
 The BLIP model supports parameters like: min_length, max_length, num_beams, no_repeat_ngram_size
 
 To encourage more hallucination and unexpected results, increasing min_length and reducing num_beams can be expected to be effective measure. Because, that forces BLIP to generate a longer caption, but with fewer options to refine it leading to stranger, more surprising descriptions. So, The AIs start trying to see things that might not really be there.
+
+The below example shows how such parameter adjustments affect the telephone-game. All of them start from the common image NIN's "The Downward Spiral".
+
+
+min_length = 10, num_beams = 10
+<img src="ex/ds_10_10_merged.png" width = 1200>
+
+
+min_length = 25, num_beams = 5
+<img src="ex/ds_25_5_merged.png" width = 1200>
+
+
+min_length = 50, num_beams = 2
+<img src="ex/ds_50_2_merged.png" width = 1200>
+
 
 ## Requirements
 
