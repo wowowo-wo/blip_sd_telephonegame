@@ -1,10 +1,10 @@
 # blip_sd_telephonegame
 
-<img src="ex/okcomp_merged.png" width = 1200>
+<img src="ex/okcomp/okcomp_merged.png" width = 1200>
 
-<img src="ex/dbell_merged.png" width = 1200>
+<img src="ex/dbell/dbell_merged.png" width = 1200>
 
-<img src="ex/sss_merged.png" width = 1200>
+<img src="ex/sss/sss_merged.png" width = 1200>
 
 This is an experimental and funny project exploring how meaning shifts and noise accumulate when an image is repeatedly passed two different kinds of AI models.
 
@@ -79,15 +79,15 @@ The below example shows how such parameter adjustments affect the telephone-game
 
 
 min_length = 10, num_beams = 10
-<img src="ex/ds_10_10_merged.png" width = 1200>
+<img src="ex/ds/ds_10_10_merged.png" width = 1200>
 
 
 min_length = 25, num_beams = 5
-<img src="ex/ds_25_5_merged.png" width = 1200>
+<img src="ex/ds/ds_25_5_merged.png" width = 1200>
 
 
 min_length = 50, num_beams = 2
-<img src="ex/ds_50_2_merged.png" width = 1200>
+<img src="ex/ds/ds_50_2_merged.png" width = 1200>
 
 
 ## Requirements
