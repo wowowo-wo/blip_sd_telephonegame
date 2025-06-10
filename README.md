@@ -67,7 +67,7 @@ The one element that remained consistent was the image of a man sitting in a cha
 
 
 
-## How to Make the Captions Weirder
+## How to make the captions weirder
 
 The key to interesting output often lies in tweaking how the caption is generated from the image.
 
